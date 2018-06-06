@@ -1,6 +1,8 @@
+
+# [BR]
 # Sobre
 O projeto visa ajudar novos programadores a desenvolver seus projetos usando banco de dados. Existem outras opções melhores/mais funcionais, tal como phpMyAdmin. Porém, nesse projeto, o principal foco é a facilidade de uso, tornando a experiência mais agradável a quem está utilizando da ferramenta.
-# [BR] Funcionalidades 
+# Funcionalidades 
 - Visão geral dos bancos de dados
 - Visão geral das tabelas
 - Comandos (queries) pré-definidas
@@ -10,7 +12,10 @@ O projeto visa ajudar novos programadores a desenvolver seus projetos usando ban
 - Criar tabelas
 - Exportar banco (.sql)
 - Outras coisas
-# [EN] Features 
+# [EN]
+# About
+The project focus on help new developers to develop his new projects using databases. Already exists another better options/more functional, like phpMyAdmin. But in this project, the principal focus it's the use facility, getting a more nice experience for who are using this tool.
+# Features
 - Databases overview
 - Tables overview
 - Pre-defined queries
@@ -20,13 +25,11 @@ O projeto visa ajudar novos programadores a desenvolver seus projetos usando ban
 - Create table
 - Database dump (.sql)
 - Another things
-# Contato
+# Contact
 developer.davi@gmail.com
 # Créditos
 Built with MaterializeCSS - http://www.materializecss.com
-
 Syntax highlighting by Ace - https://ace.c9.io/
-
 PHP SQL dump by Mysqldump - https://github.com/ifsnop/mysqldump-php
 # TODO
 This project is actually available only in Portuguese. In the future, the project will be completely available also in English.
