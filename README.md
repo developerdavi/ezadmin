@@ -28,8 +28,8 @@ The project focus on help new developers to develop their new projects using dat
 # Contact
 developer.davi@gmail.com
 # Credits
-Built with MaterializeCSS - http://www.materializecss.com
-Syntax highlighting by Ace - https://ace.c9.io/
-PHP SQL dump by Mysqldump - https://github.com/ifsnop/mysqldump-php
+- Built with MaterializeCSS - http://www.materializecss.com
+- Syntax highlighting by Ace - https://ace.c9.io/
+- PHP SQL dump by Mysqldump - https://github.com/ifsnop/mysqldump-php
 # TODO
 This project is actually available only in Portuguese. In the future, the project will be completely available also in English.
