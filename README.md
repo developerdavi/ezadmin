@@ -14,7 +14,7 @@ O projeto visa ajudar novos programadores a desenvolver seus projetos usando ban
 - Outras coisas
 # [EN]
 # About
-The project focus on help new developers to develop his new projects using databases. Already exists another better options/more functional, like phpMyAdmin. But in this project, the principal focus it's the use facility, getting a more nice experience for who are using this tool.
+The project focus on help new developers to develop their new projects using databases. Already exists another better/more functional options, like phpMyAdmin. But in this project, the principal focus it's the use facility, getting a more nice experience for who are using this tool.
 # Features
 - Databases overview
 - Tables overview
