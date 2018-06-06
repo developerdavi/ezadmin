@@ -27,7 +27,7 @@ The project focus on help new developers to develop their new projects using dat
 - Another things
 # Contact
 developer.davi@gmail.com
-# Créditos
+# Credits
 Built with MaterializeCSS - http://www.materializecss.com
 Syntax highlighting by Ace - https://ace.c9.io/
 PHP SQL dump by Mysqldump - https://github.com/ifsnop/mysqldump-php
