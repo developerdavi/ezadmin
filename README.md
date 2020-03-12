@@ -1,3 +1,7 @@
+<h3 align="center">
+  <img width="600" src="https://raw.githubusercontent.com/opendavi/ezadmin/master/docs/screenshot.png"/>
+  <h3 align="center">EzAdmin</h2>
+</h3>
 
 # [pt_BR]
 # Sobre
