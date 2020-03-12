@@ -20,7 +20,7 @@
 	  	<br><br>
 	  	<div class="container">
 		  	<p class="left" style="color: white; font-size: 20px"><i class="material-icons small left prefix">lock_open</i>Open source</p>
-				<img src="img/devdavi.png" class="tooltipped right" data-position="top" data-tooltip="Desenvolvedor">
+				<img src="img/devdavi.png" class="tooltipped right devdavi-logo" data-position="top" data-tooltip="Desenvolvedor">
 			</div>
 	  </div>
   </main>

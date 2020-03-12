@@ -25,6 +25,7 @@
 <head>
 	<title>Ez SQL Admin</title>
 	<link rel="stylesheet" type="text/css" href="css/materialize.css">
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style type="text/css">
@@ -92,7 +93,7 @@
 			<br><br>
 		</div>
 		<div class="container center">
-			<img id="dev-davi" src="img/devdavi.png">		
+			<img id="dev-davi" src="img/devdavi.png" class="devdavi-logo">		
 		</div>
   </main>
 
