@@ -12,7 +12,7 @@
 	  	<p class="white-text">O projeto visa ajudar novos programadores a desenvolver seus projetos usando banco de dados. Existem outras opções melhores/mais funcionais, tal como phpMyAdmin. Porém, nesse projeto, o principal foco é a facilidade de uso, tornando a experiência mais agradável a quem está utilizando da ferramenta.</p>
 
 	  	<h5 class="white-text">Contato</h5>
-	  	<p class="white-text">developer.davi@gmail.com</p>
+	  	<p class="white-text">hello@devdavi.com.br</p>
 	  	<h5 class="white-text">Créditos</h5>
 	  	<p class="white-text">Built with <a href="http://www.materializecss.com">MaterializeCSS</a></p>
 	  	<p class="white-text">Syntax highlighting by <a href="https://ace.c9.io/">Ace</a></p>
